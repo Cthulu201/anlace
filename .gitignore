@@ -1,5 +1,7 @@
 pkg/
 src/
+docs/
+repo/
 
 *.pkg.tar.*
 *.src.tar.*
