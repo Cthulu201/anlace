@@ -1,2 +1,2 @@
-# mXm
-Pronounced "mayhem" - that's what the cool kids are doing. A personal repo forked from ArchStrike.
+# anlace
+Yeah, the other name was stupid. A personal repo forked from ArchStrike.
